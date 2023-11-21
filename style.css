@@ -1,0 +1,26 @@
+.header {
+    color: white;
+    margin: 0px;
+    box-shadow: 5px 5px 5 100px gray;
+    width: 75%;
+}
+
+.note {
+    color: yellow;
+    font-size: 18px;
+}
+
+.footer {
+    font-size: 20px;
+    color: white;
+    position: fixed;
+    bottom: 10;
+    width: 100%;
+    text-align: center;
+}
+
+canvas {
+    border: 3px double black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 60px gray;
+}
